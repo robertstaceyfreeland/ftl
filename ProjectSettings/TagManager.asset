@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Shootable
+  - LifeSupport
+  - Damage
+  - Oxygen
+  - Helm
+  - Door
+  - AlienBullet
+  - Explosion
+  - Enemy
+  - PlayerWeapon
+  - PlayerBullet
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Base
+  - Player
+  - Top
+  - Minimap
+  - Bullet
+  - Bounds
+  - Obstacles
+  - Doors
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 3804908061
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Base
+    uniqueID: 2323416153
+    locked: 0
+  - name: Player
+    uniqueID: 2802685675
+    locked: 0
+  - name: Top
+    uniqueID: 1018131781
+    locked: 0
